@@ -4,7 +4,8 @@
 
 - python 3.8.11
 - pytorch 1.7.1
-- tf_geometric 1.2.0
+- torch_geometric 1.7.2
+- ogb 1.3.4
 ---
 ## Pretrain
 ## Finetune
