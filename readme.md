@@ -6,8 +6,8 @@
 - pytorch 1.7.1
 - tf_geometric 1.2.0
 ---
-**pretrain**
+**Pretrain**
 
---
-**finetune**
+---
+**Finetune**
 
