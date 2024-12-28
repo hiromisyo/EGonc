@@ -10,6 +10,8 @@
 ## Pretrain
 Specify the dataset, along with the relevant parameters and the storage path for the pre-training results, then run the following code for pre-training.
 
-`python Pretrain_Egonc_gcn_model2_bn_inductive.py`
+`Python Pretrain_Egonc_gcn_model2_bn_inductive.py`
 ## Finetune
+fter the pre-training is complete and the model's pre-training parameters are obtained, run the following code for fine-tuning to get the test results.
 
+`Python Finetune_Egonc_gcn_model2_bn_inductive`
