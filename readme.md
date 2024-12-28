@@ -8,5 +8,7 @@
 - ogb 1.3.4
 ---
 ## Pretrain
+Specify the dataset, along with the relevant parameters and the storage path for the pre-training results, then run the following code for pre-training.
+'python Pretrain_Egonc_gcn_model2_bn_inductive.py'
 ## Finetune
 
