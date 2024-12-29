@@ -163,9 +163,9 @@ if __name__ == '__main__':
 
     print('==> Preparing data..')
     if args.dataset == 'cora':
-        graph = Planetoid(root = '/vs code/vs code for python 3.9/GNN/simplt-PYG/datasets', name = 'Cora')
+        graph = Planetoid(root = '/Egonc/datasets', name = 'Cora')
     elif args.dataset == 'citeseer':
-        graph = Planetoid(root = '/vs code/vs code for python 3.9/GNN/OpenWGL-main/datasets/PYG', name = 'Citeseer')
+        graph = Planetoid(root = '/Egonc/datasets', name = 'Citeseer')
     g = graph[0]
 
     torch.manual_seed(args.seed)
